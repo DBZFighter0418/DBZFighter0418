@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is [Your Name] and I'm a Software Developer & Systems Engineer based in the RDU area, currently working at RoviSys in Holly Springs, NC.</p>
+<p align="left">My name is I'Zayah and I'm a Software Developer based in the RDU area.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions (and the occasional bug) since 2018<br>📚 I'm currently learning more about cybersecurity, cloud infrastructure, and automation<br>🎯 Goals: Continue blending software engineering with IT/OT security and automation<br>🎲 Fun fact: I’ve worked on both industrial OT networks and full-stack web apps – a bit of both worlds!</p>
+<p align="left">✨ Creating solutions (and the occasional bug) since 2018<br>📚 I'm currently learning more about cybersecurity, cloud infrastructure, and automation<br>🎯 Goals: Continue growing my skills in the cybersecurity space<br>🎲 Fun fact: I’ve worked on both industrial OT networks and full-stack web apps – a bit of both worlds!</p>
 
 ###
 
@@ -45,7 +45,7 @@
 <ul align="left">
   <li>Fortinet Firewalls & Networking (VLANs, subnets, firewall policies)</li>
   <li>Microsoft SQL Server & Database Querying</li>
-  <li>Ignition SCADA platform and FactoryTalk</li>
+  <li>Ignition SCADA platform</li>
   <li>VMware ESXi, Windows Server, and basic Linux system administration</li>
   <li>Version control and project management via Git and GitLab</li>
 </ul>
